@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Fit.consoleapp": {
+      "commandName": "Project",
+      "commandLineArgs": "Prlll fit intro"
+    }
+  }
+}

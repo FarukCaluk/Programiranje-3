@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fit.consoleapp/1.0.0": {
+        "dependencies": {
+          "FIT.data": "1.0.0"
+        },
+        "runtime": {
+          "Fit.consoleapp.dll": {}
+        }
+      },
+      "FIT.data/1.0.0": {
+        "runtime": {
+          "FIT.data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fit.consoleapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIT.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

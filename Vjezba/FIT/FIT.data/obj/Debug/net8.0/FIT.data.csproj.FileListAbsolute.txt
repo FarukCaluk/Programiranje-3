@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\FIT\FIT.data\bin\Debug\net8.0\FIT.data.deps.json
+C:\Users\Korisnik\source\repos\FIT\FIT.data\bin\Debug\net8.0\FIT.data.dll
+C:\Users\Korisnik\source\repos\FIT\FIT.data\bin\Debug\net8.0\FIT.data.pdb
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\FIT.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\FIT.data.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\FIT.data.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\FIT.data.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\FIT.data.dll
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\refint\FIT.data.dll
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\FIT.data.pdb
+C:\Users\Korisnik\source\repos\FIT\FIT.data\obj\Debug\net8.0\ref\FIT.data.dll
