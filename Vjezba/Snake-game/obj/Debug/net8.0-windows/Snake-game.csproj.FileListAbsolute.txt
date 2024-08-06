@@ -1,0 +1,4 @@
+C:\Users\Korisnik\source\repos\Snake-game\Snake-game\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Korisnik\source\repos\Snake-game\Snake-game\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Korisnik\source\repos\Snake-game\Snake-game\obj\Debug\net8.0-windows\Snake-game_MarkupCompile.cache
+C:\Users\Korisnik\source\repos\Snake-game\Snake-game\obj\Debug\net8.0-windows\Snake-game_MarkupCompile.lref
